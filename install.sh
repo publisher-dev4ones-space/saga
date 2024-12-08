@@ -1,2 +1,2 @@
 sudo mv ./saga /usr/bin
-sudo cp /usr/bin/saga /bin
+sudo chmod +x /usr/bin/saga 
