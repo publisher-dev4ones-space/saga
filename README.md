@@ -21,7 +21,7 @@ Second way(manually):
 
 First way(automated):
 
-Update saga via "echo update | sudo saga"
+Update saga via "echo update --beta | sudo saga"
 
 Second way(manually):
 
