@@ -30,3 +30,9 @@ Second way(manually):
 2. Move saga-beta file to /usr/bin (sudo mv saga-beta /usr/bin)
 
 *3. (optional) Copy saga-beta file to /bin, from /usr/bin (sudo cp /usr/bin/saga-beta /bin)
+
+# How to use saga:
+
+Use a "echo {command} | sudo saga"
+
+(for beta: "echo {command} | sudo saga-beta")
