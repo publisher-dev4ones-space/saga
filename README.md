@@ -36,3 +36,7 @@ Second way(manually):
 Use a "echo {command} | sudo saga"
 
 (for beta: "echo {command} | sudo saga-beta")
+
+# Troubleshooting "permission denied"
+
+Use "sudo chmod +x /usr/bin/saga{-beta or not}"
